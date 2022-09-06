@@ -13,7 +13,7 @@ web page recorder
      <li>live (hls) </li>
 </ul>
 <p><p> 
-<h2 align="center">install meetapp</h2>
+<h2 align="center">install webpagerecorder</h2>
 <p><p> 
  <pre>
  create folder for record file :
