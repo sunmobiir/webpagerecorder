@@ -23,6 +23,7 @@ web page recorder
  </pre>
 
 The software is installed open the chrome browser and enter the http://localhost:3000/list.html
+<p>
 for record open  http://localhost:3000/record.html
 
 <p><p> 
