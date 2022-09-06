@@ -19,7 +19,7 @@ web page recorder
  create folder for record file :
  $ mkdir -m 777 record
  run docker : 
- $ docker run   --network=host -v record:/home/ubuntu/Downloads  -v record:/home/ubuntu/wprNode/public/recordfile/    --name wpr alit771/webpagerecorder:v2.1
+ $ docker run   --network=host -v record:/home/ubuntu/Downloads  -v record:/home/ubuntu/wprNode/public/recordfile/    --name wpr alit771/webpagerecorder:v2.2
  </pre>
 
 The software is installed open the chrome browser and enter the http://localhost:3000/list.html
