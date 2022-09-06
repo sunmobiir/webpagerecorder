@@ -7,7 +7,7 @@ web page recorder
 <li>high performance recorder </li>
     <li>concurrent multiple page recorder </li>
     <li>record url </li>
-    <li> concert webpage to video (mp4) </li>
+    <li> convert webpage to video (mp4) </li>
     <li>restream  to rtmp live stream (youtube and other rtmp live )</li>    
      <li>record (webm mp4 mkv format) </li>
      <li>live (hls) </li>
